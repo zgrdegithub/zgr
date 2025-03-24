@@ -1,6 +1,6 @@
 # 🐺 灰太狼の生存手冊（抓不到羊版） 
 
-< img src="https://media.giphy.com/media/11q0YOL1xVv6k0/giphy.gif" width="300" align="right" alt="经典飞锅">
+< img src="https://github.com/zgrdegithub/zgr/blob/main/%E7%81%B0%E5%A4%AA%E7%8B%BC.jpg">
 
 ---
 
