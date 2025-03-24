@@ -50,4 +50,4 @@ print(np.array([1, 2, 3]) ** 2)
 <img src="https://github.com/zgrdegithub/zgr/blob/main/%E6%88%AA%E5%9B%BE%202025-03-07%2009-07-46.png">
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pic2.jpg" width="800" alt="截图二">
+<img src="https://github.com/zgrdegithub/zgr/blob/main/%E6%88%AA%E5%9B%BE%202025-03-07%2009-41-24.png">
